@@ -29,7 +29,7 @@ print ("Swapped values are:",a,b)
 ~~~
 
 ## OUTPUT:
-![OUTPUT]()
+![OUTPUT](https://github.com/Hp9806/Swapping-two-values/blob/main/IMG-20211128-WA0025%20(4).jpg?raw=true)
 
 
 
